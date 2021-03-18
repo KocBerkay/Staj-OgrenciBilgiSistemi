@@ -1,0 +1,12 @@
+C:\Users\brky2\source\repos\Staj-ÖğrenciBilgiSistemi\Staj-ÖğrenciBilgiSistemi\obj\Debug\Staj-ÖğrenciBilgiSistemi.csprojAssemblyReference.cache
+C:\Users\brky2\source\repos\Staj-ÖğrenciBilgiSistemi\Staj-ÖğrenciBilgiSistemi\obj\Debug\Staj_ÖğrenciBilgiSistemi.Form1.resources
+C:\Users\brky2\source\repos\Staj-ÖğrenciBilgiSistemi\Staj-ÖğrenciBilgiSistemi\obj\Debug\Staj_ÖğrenciBilgiSistemi.Properties.Resources.resources
+C:\Users\brky2\source\repos\Staj-ÖğrenciBilgiSistemi\Staj-ÖğrenciBilgiSistemi\obj\Debug\Staj-ÖğrenciBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\brky2\source\repos\Staj-ÖğrenciBilgiSistemi\Staj-ÖğrenciBilgiSistemi\obj\Debug\Staj-ÖğrenciBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\brky2\source\repos\Staj-ÖğrenciBilgiSistemi\Staj-ÖğrenciBilgiSistemi\bin\Debug\Staj-ÖğrenciBilgiSistemi.exe.config
+C:\Users\brky2\source\repos\Staj-ÖğrenciBilgiSistemi\Staj-ÖğrenciBilgiSistemi\bin\Debug\Staj-ÖğrenciBilgiSistemi.exe
+C:\Users\brky2\source\repos\Staj-ÖğrenciBilgiSistemi\Staj-ÖğrenciBilgiSistemi\bin\Debug\Staj-ÖğrenciBilgiSistemi.pdb
+C:\Users\brky2\source\repos\Staj-ÖğrenciBilgiSistemi\Staj-ÖğrenciBilgiSistemi\obj\Debug\Staj-ÖğrenciBilgiSistemi.exe
+C:\Users\brky2\source\repos\Staj-ÖğrenciBilgiSistemi\Staj-ÖğrenciBilgiSistemi\obj\Debug\Staj-ÖğrenciBilgiSistemi.pdb
+C:\Users\brky2\source\repos\Staj-ÖğrenciBilgiSistemi\Staj-ÖğrenciBilgiSistemi\obj\Debug\Staj_ÖğrenciBilgiSistemi.Form2.resources
+C:\Users\brky2\source\repos\Staj-ÖğrenciBilgiSistemi\Staj-ÖğrenciBilgiSistemi\obj\Debug\Staj_ÖğrenciBilgiSistemi.Form3.resources
